@@ -4,6 +4,9 @@
         <path>$WS_DIR$\..\..\..\project\iar\cuties.ewp</path>
     </project>
     <project>
+        <path>$WS_DIR$\..\..\test\block_queue\project\iar\test_block_queue.ewp</path>
+    </project>
+    <project>
         <path>$WS_DIR$\..\..\test\simulator_template\project\iar\test_simulator_template.ewp</path>
     </project>
     <batchBuild>
@@ -15,6 +18,10 @@
             </member>
             <member>
                 <project>test_simulator_template</project>
+                <configuration>test</configuration>
+            </member>
+            <member>
+                <project>test_block_queue</project>
                 <configuration>test</configuration>
             </member>
         </batchDefinition>
