@@ -7,6 +7,9 @@
         <path>$WS_DIR$\..\..\test\block_queue\project\iar\test_block_queue.ewp</path>
     </project>
     <project>
+        <path>$WS_DIR$\..\..\test\east_block\project\iar\test_east_block.ewp</path>
+    </project>
+    <project>
         <path>$WS_DIR$\..\..\test\simulator_template\project\iar\test_simulator_template.ewp</path>
     </project>
     <batchBuild>
@@ -22,6 +25,10 @@
             </member>
             <member>
                 <project>test_block_queue</project>
+                <configuration>test</configuration>
+            </member>
+            <member>
+                <project>test_east_block</project>
                 <configuration>test</configuration>
             </member>
         </batchDefinition>
