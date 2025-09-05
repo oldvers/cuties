@@ -1040,6 +1040,15 @@
         </file>
     </group>
     <group>
+        <name>FIFO</name>
+        <file>
+            <name>$PROJ_DIR$\..\..\source\fifo\fifo.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\source\fifo\fifo.h</name>
+        </file>
+    </group>
+    <group>
         <name>Log</name>
         <file>
             <name>$PROJ_DIR$\..\..\source\log\log.c</name>

@@ -13,6 +13,9 @@
         <path>$WS_DIR$\..\..\test\east_message\project\iar\test_east_message.ewp</path>
     </project>
     <project>
+        <path>$WS_DIR$\..\..\test\fifo\project\iar\test_fifo.ewp</path>
+    </project>
+    <project>
         <path>$WS_DIR$\..\..\test\simulator_template\project\iar\test_simulator_template.ewp</path>
     </project>
     <batchBuild>
@@ -36,6 +39,10 @@
             </member>
             <member>
                 <project>test_east_block</project>
+                <configuration>test</configuration>
+            </member>
+            <member>
+                <project>test_fifo</project>
                 <configuration>test</configuration>
             </member>
         </batchDefinition>

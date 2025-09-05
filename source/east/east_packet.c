@@ -17,7 +17,7 @@
 
 /* -------------------------------------------------------------------------- */
 
-#define EAST_DEBUG
+//#define EAST_DEBUG
 
 #ifdef EAST_DEBUG
 #  define EAST_LOG    LOG
