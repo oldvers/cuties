@@ -1071,7 +1071,7 @@
             <name>$PROJ_DIR$\..\..\source\freertos\Source\include\FreeRTOS.h</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\configuration\FreeRTOSConfig.h</name>
+            <name>$PROJ_DIR$\..\..\source\freertos\FreeRTOSConfig.h</name>
         </file>
         <file>
             <name>$PROJ_DIR$\..\..\source\freertos\Source\portable\MemMang\heap_2.c</name>
