@@ -342,6 +342,7 @@
                     <name>CCIncludePath2</name>
                     <state>$CUTIES_CFG_DIR$</state>
                     <state>$PROJ_DIR$\..\..\source</state>
+                    <state>$PROJ_DIR$\..\..\source\freertos</state>
                     <state>$PROJ_DIR$\..\..\source\freertos\Source\include</state>
                     <state>$PROJ_DIR$\..\..\source\freertos\Source\portable\IAR\ARM_CM3</state>
                     <state>$PROJ_DIR$\..\..\source\log</state>
@@ -609,6 +610,7 @@
                 <option>
                     <name>AUserIncludes</name>
                     <state>$CUTIES_CFG_DIR$</state>
+                    <state>$PROJ_DIR$\..\..\source\freertos</state>
                 </option>
                 <option>
                     <name>AExtraOptionsCheckV2</name>
