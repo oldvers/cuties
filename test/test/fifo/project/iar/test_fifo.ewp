@@ -340,6 +340,7 @@
                 </option>
                 <option>
                     <name>CCIncludePath2</name>
+                    <state>$CUTIES_CFG_DIR$</state>
                     <state>$PROJ_DIR$\..\..\source</state>
                     <state>$PROJ_DIR$\..\..\..\..\..\source</state>
                     <state>$PROJ_DIR$\..\..\..\..\..\source\log</state>
@@ -608,6 +609,7 @@
                 </option>
                 <option>
                     <name>AUserIncludes</name>
+                    <state>$CUTIES_CFG_DIR$</state>
                     <state>$PROJ_DIR$\..\..\..\..\..\source\freertos</state>
                 </option>
                 <option>
