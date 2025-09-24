@@ -1,3 +1,6 @@
+#ifndef __CUTIES_CONFIG_H__
+#define __CUTIES_CONFIG_H__
+
 /*****************************************************************************/
 /*** FreeRTOS Configuration **************************************************/
 /*****************************************************************************/
@@ -69,9 +72,6 @@
 
     1 tab == 4 spaces!
 */
-
-#ifndef FREERTOS_CONFIG_H
-#define FREERTOS_CONFIG_H
 
 /* Ensure stdint is only used by the compiler, and not the assembler. */
 #if defined(__ICCARM__) || defined(__CC_ARM) || defined(__GNUC__)
@@ -180,5 +180,4 @@ NVIC value of 255. */
 #define vPortSVCHandler                            SVC_Handler
 
 
-#endif /* FREERTOS_CONFIG_H */
-
+#endif /* __CUTIES_CONFIG_H__ */
