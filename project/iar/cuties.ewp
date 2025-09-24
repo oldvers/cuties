@@ -340,8 +340,8 @@
                 </option>
                 <option>
                     <name>CCIncludePath2</name>
+                    <state>$CUTIES_CFG_DIR$</state>
                     <state>$PROJ_DIR$\..\..\source</state>
-                    <state>$PROJ_DIR$\..\..\source\freertos</state>
                     <state>$PROJ_DIR$\..\..\source\freertos\Source\include</state>
                     <state>$PROJ_DIR$\..\..\source\freertos\Source\portable\IAR\ARM_CM3</state>
                     <state>$PROJ_DIR$\..\..\source\log</state>
@@ -608,7 +608,7 @@
                 </option>
                 <option>
                     <name>AUserIncludes</name>
-                    <state>$PROJ_DIR$\..\..\source\freertos</state>
+                    <state>$CUTIES_CFG_DIR$</state>
                 </option>
                 <option>
                     <name>AExtraOptionsCheckV2</name>
@@ -1069,7 +1069,7 @@
             <name>$PROJ_DIR$\..\..\source\freertos\Source\include\FreeRTOS.h</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\..\source\freertos\FreeRTOSConfig.h</name>
+            <name>$PROJ_DIR$\..\..\configuration\FreeRTOSConfig.h</name>
         </file>
         <file>
             <name>$PROJ_DIR$\..\..\source\freertos\Source\portable\MemMang\heap_2.c</name>
