@@ -1098,4 +1098,7 @@
             <name>$PROJ_DIR$\..\..\source\freertos\Source\timers.c</name>
         </file>
     </group>
+    <file>
+        <name>$PROJ_DIR$\..\..\source\types.h</name>
+    </file>
 </project>
